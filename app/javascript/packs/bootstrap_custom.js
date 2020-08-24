@@ -12,4 +12,3 @@ import 'bootstrap/js/dist/toast'
 import 'bootstrap/js/dist/tooltip'
 import 'bootstrap/js/dist/util'
 
-import './bootstrap_custom.js'
